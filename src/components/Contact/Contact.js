@@ -66,7 +66,7 @@ export default function Contact() {
                         <div className='contact__form-div'>
                             <label className='contact__form-tag'>Mail</label>
                             <input type='email' name='email'
-                                className='contact__form-input' placeholder='Insert your Name' required/>
+                                className='contact__form-input' placeholder='Insert your Email' required/>
 
                         </div>
 

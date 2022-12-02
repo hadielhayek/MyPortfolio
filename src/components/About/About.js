@@ -14,7 +14,8 @@ export default function About() {
         <div className='about__data'>
           <Info />
           <p className='about__description'>
-            front end developer, i create ui/ux
+            Full stack web developer,responsible for designing and developing websites and platforms. Work with design teams to ensure that 
+            user interactions on web pages are intuitive and engaging
           </p>
           <a download=''
             href={CV} className='button button--flex'>Download Resume</a>
